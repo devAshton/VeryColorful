@@ -1,0 +1,57 @@
+/**
+* @name Very Colorful
+* @description Theme created by Ashton
+* @version 1.0
+* @author Ashton#0420
+*/
+
+.theme-dark {
+    --text-link: #e71313;
+    --text-muted: #00fff2;
+    --text-normal: #1fe4c9;
+    --header-primary: rgb(236, 1, 178);
+    --interactive-normal: #7f97bb;
+    --interactive-active: rgb(177, 75, 75);
+}
+
+.username-1A8OIy {
+    color: rgb(255, 217, 0);
+}
+
+.username-2b1r56 {
+    color: rgb(255, 217, 0);
+}
+
+.name-uJV0GL {
+    color: rgb(20, 139, 236);
+}
+
+.toolbar-1t6TWx .iconWrapper-2OrFZ1 svg {color: rgb(100, 61, 240)}
+
+.circleIcon-1-oi1i {
+    color: rgb(20, 139, 236);
+}
+
+.circleIconButton-1QV--U.circleButtonBase-2DCxIZ {
+    color: rgb(20, 139, 236)
+}
+
+.linkButtonIcon-Mlm5d6 {
+    color: rgb(100, 61, 240)
+}
+
+@font-face {
+    font-family: Discord;
+    src: url("https://strencher.github.io/BetterDiscordStuff/Discord.otf") format("opentype");
+}
+.typeWindows-1za-n7 {position:relative}
+.wordmark-2iDDfm {
+    display:flex;
+    align-items:center;
+    height:100%;
+    top:-4px;
+    font-size:14px;
+    font-family:'Discord';
+}
+.wordmark-2iDDfm > svg {display:none}
+.wordmark-2iDDfm:after {content:'Very Colorful (v1.0)'}
